@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1499692135 source:d:\ccode\studnetsystem\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1499151333 source:e:\codes\studnetsystem\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1499220871 source:f:\codes\studnetsystem\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<iomanip>
+

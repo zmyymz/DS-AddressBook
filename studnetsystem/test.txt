@@ -1,0 +1,2 @@
+11       zmy1.78643e+010     China            zibo              street              255000
+22       aaa1.42124e+009     China            zibo              street              255000
